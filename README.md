@@ -1,2 +1,18 @@
-# Travel-Boostrap5.3.3-Website
-Wesite sobre viajes
+# Travel Website
+Este es un sitio web sobre viajes creado utilizando HTML, CSS, Bootstrap 5 y Astro. El objetivo de este proyecto es proporcionar una plataforma informativa y atractiva para los viajeros, ofreciendo guías de viaje, recomendaciones de destinos, y consejos útiles.
+
+### Tecnologías Utilizadas
+- **HTML:** Para la estructura del contenido.
+- **CSS: Para el** diseño y la presentación visual.
+- **Bootstrap 5:** Para un diseño responsivo y componentes predefinidos.
+- **Astro:** Para la generación de sitios estáticos y una mejor performance.
+
+### Instalación y Uso
+1. Clonar el repositorio:
+   ```git
+   git clone https://github.com/tu-usuario/travel-website.git
+   ```
+2. Navegar al directorio
+   ```PHP
+   echo $_POST['add'];
+   ```
